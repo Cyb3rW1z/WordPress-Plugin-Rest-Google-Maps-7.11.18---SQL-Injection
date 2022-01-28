@@ -1,5 +1,8 @@
 # WordPress-Plugin-Rest-Google-Maps-7.11.18---SQL-Injection
 
+
+This code was written by Jonatas Fil and had some errors that were fixed, so I decided to upload the errors free source code.
+
 This Vulnerability was used to gain password hash of a user found in a wordpress plugin on Hacker-Fest-2010 machine from vulnHub website. 
 The machine url is https://www.vulnhub.com/entry/hacker-fest-2019,378/
 
